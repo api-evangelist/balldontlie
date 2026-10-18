@@ -41,7 +41,8 @@ apis:
   - name: balldontlie
     description: "Balldontlie provides access to stats data from the NBA"
     humanURL: https://www.balldontlie.io
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
